@@ -1,3 +1,5 @@
+#docker-compose file
+
 services:
   # Dedicated Nginx reverse proxy
   nginx:
